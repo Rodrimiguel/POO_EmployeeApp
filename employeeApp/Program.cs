@@ -1,6 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-
+﻿
 /*
 Elabore una aplicación con una clase empleado (Nombre, apellido, cargo, CUIL, cantidad de hijos a 
 cargo y años de antigüedad).
