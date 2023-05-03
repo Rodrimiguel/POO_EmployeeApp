@@ -1,0 +1,15 @@
+C:\Users\Rodrigo\Desktop\NEW PROFESSOR\POOPractice_IIIb\employeeApp\bin\Debug\net7.0\employeeApp.exe
+C:\Users\Rodrigo\Desktop\NEW PROFESSOR\POOPractice_IIIb\employeeApp\bin\Debug\net7.0\employeeApp.deps.json
+C:\Users\Rodrigo\Desktop\NEW PROFESSOR\POOPractice_IIIb\employeeApp\bin\Debug\net7.0\employeeApp.runtimeconfig.json
+C:\Users\Rodrigo\Desktop\NEW PROFESSOR\POOPractice_IIIb\employeeApp\bin\Debug\net7.0\employeeApp.dll
+C:\Users\Rodrigo\Desktop\NEW PROFESSOR\POOPractice_IIIb\employeeApp\bin\Debug\net7.0\employeeApp.pdb
+C:\Users\Rodrigo\Desktop\NEW PROFESSOR\POOPractice_IIIb\employeeApp\obj\Debug\net7.0\employeeApp.csproj.AssemblyReference.cache
+C:\Users\Rodrigo\Desktop\NEW PROFESSOR\POOPractice_IIIb\employeeApp\obj\Debug\net7.0\employeeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodrigo\Desktop\NEW PROFESSOR\POOPractice_IIIb\employeeApp\obj\Debug\net7.0\employeeApp.AssemblyInfoInputs.cache
+C:\Users\Rodrigo\Desktop\NEW PROFESSOR\POOPractice_IIIb\employeeApp\obj\Debug\net7.0\employeeApp.AssemblyInfo.cs
+C:\Users\Rodrigo\Desktop\NEW PROFESSOR\POOPractice_IIIb\employeeApp\obj\Debug\net7.0\employeeApp.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Desktop\NEW PROFESSOR\POOPractice_IIIb\employeeApp\obj\Debug\net7.0\employeeApp.dll
+C:\Users\Rodrigo\Desktop\NEW PROFESSOR\POOPractice_IIIb\employeeApp\obj\Debug\net7.0\refint\employeeApp.dll
+C:\Users\Rodrigo\Desktop\NEW PROFESSOR\POOPractice_IIIb\employeeApp\obj\Debug\net7.0\employeeApp.pdb
+C:\Users\Rodrigo\Desktop\NEW PROFESSOR\POOPractice_IIIb\employeeApp\obj\Debug\net7.0\employeeApp.genruntimeconfig.cache
+C:\Users\Rodrigo\Desktop\NEW PROFESSOR\POOPractice_IIIb\employeeApp\obj\Debug\net7.0\ref\employeeApp.dll
