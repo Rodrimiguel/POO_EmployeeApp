@@ -8,7 +8,7 @@ Se sabe que en la empresa hay cinco cargos que perciben un sueldo básico difere
 ($ 100000), Operador ($ 150000), Ejecutivo de cuenta ($200000), Gerente ($500000) y Director ejecutivo 
 ($900000)
 Se sabe asimismo que los empleados tienen derecho a percibir un importe de $10000 como asignación
- familiar por hijo a cargo,
+familiar por hijo a cargo,
 y el 7% más de su sueldo básico por año de antigüedad.
 Ingrese varios empleados y calcule su sueldo.
 
@@ -81,7 +81,7 @@ public class Empleado
 
     public void LiquidarSueldo()
     {
-        double sueldobasico = (double)this.Cargo;
+        double sueldobasico = (double)this.Cargo; // Lo que vamos a evaluar es que valor tiene esta propiedad.
         /*
         switch(this.Cargo){
             case TipoCargo.Asistente:
